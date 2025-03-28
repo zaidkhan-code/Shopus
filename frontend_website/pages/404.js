@@ -4,7 +4,7 @@ import PageHead from "../src/components/Helpers/PageHead";
 export default function FourZeroFourPage() {
   return (
     <>
-      <PageHead title="Sometings went wrong" />
+      <PageHead title="Sometings wet wrong" />
       <FourZeroFour />
     </>
   );
